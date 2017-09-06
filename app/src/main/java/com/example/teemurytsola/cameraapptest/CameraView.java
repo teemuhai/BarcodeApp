@@ -112,7 +112,14 @@ public class CameraView extends AppCompatActivity implements View.OnClickListene
     @Override
     public void onClick(View view) {
         if(currentBarcode != null){
-            MainActivity.barcodesList.add(currentBarcode);
+            BarcodeItem barcodeItem = new BarcodeItem(currentBarcode);
+            for (BarcodeItem item : MainActivity.barcodesList){
+                if(item == barcodeItem){
+                    item.itemCount++;
+                } else {
+                    MainActivity.barcodesList.add(barcodeItem);
+                }
+            }
             Toast.makeText(this, "Added barcode " + currentBarcode, Toast.LENGTH_SHORT).show();
             System.out.println("Here should be list of barcodes" + MainActivity.barcodesList);
             currentBarcode = null;

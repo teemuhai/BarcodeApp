@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_business_area_options">
+    <item>@string/business_area_label_after_sales</item>
+    <item>@string/business_area_label_inter_company</item>
+        <item>@string/business_area_label_new_build</item>
+</string-array>
+
+    <string-array name="pref_business_area_values">
+        <item>@string/pref_business_area_after_sales</item>
+        <item>@string/pref_business_area_inter_company</item>
+        <item>@string/pref_business_area_new_build</item>
+
+    </string-array>
+
+    <string-array name="pref_business_type_options">
+        <item>@string/business_type_label_product_business</item>
+        <item>@string/business_type_label_services_business</item>
+        <item>@string/business_type_label_systems_business</item>
+    </string-array>
+
+    <string-array name="pref_business_type_values">
+        <item>@string/pref_business_type_product_business</item>
+        <item>@string/pref_business_type_services_business</item>
+        <item>@string/pref_business_type_systems_business</item>
+    </string-array>
+
+    <string-array name="pref_warehouse_options">
+        <item>@string/warehouse_label_hameenlinna</item>
+        <item>@string/warehouse_label_hameenlinna_tuotanto</item>
+        <item>@string/warehouse_label_turku</item>
+        <item>@string/warehouse_label_raisio</item>
+        <item>@string/warehouse_label_jamsa</item>
+    </string-array>
+    <string-array name="pref_warehouse_values">
+        <item>@string/pref_warehouse_hameenlinna</item>
+        <item>@string/pref_warehouse_hameenlinna_tuotanto</item>
+        <item>@string/pref_warehouse_turku</item>
+        <item>@string/pref_warehouse_raisio</item>
+        <item>@string/pref_warehouse_jamsa</item>
+    </string-array>
+
+    <string-array name="pref_cost_center_options">
+        <item>@string/cost_center_label_hameenlinna</item>
+        <item>@string/cost_center_label_jamsa</item>
+        <item>@string/cost_center_label_turku</item>
+    </string-array>
+
+    <string-array name="pref_cost_center_values">
+        <item>@string/pref_cost_center_hamenelinna</item>
+        <item>@string/pref_cost_center_jamsa</item>
+        <item>@string/pref_cost_center_turku</item>
+    </string-array>
+    
+    <string-array name="pref_customer_segment_options">
+        <item>@string/customer_segment_label_distributors</item>
+        <item>@string/customer_segment_label_hydraulic_oems</item>
+        <item>@string/customer_segment_label_intercompany</item>
+        <item>@string/customer_segment_label_marine</item>
+        <item>@string/customer_segment_label_metal_mining</item>
+        <item>@string/customer_segment_label_mobile_equipment</item>
+        <item>@string/customer_segment_label_offshore</item>
+        <item>@string/customer_segment_label_other</item>
+        <item>@string/customer_segment_label_pulp_paper_forest</item>
+        <item>@string/customer_segment_label_testing</item>
+    </string-array>
+
+    <string-array name="pref_customer_segment_values">
+        <item>@string/pref_customer_segment_distributors</item>
+        <item>@string/pref_customer_segment_hydraulic_oems</item>
+        <item>@string/pref_customer_segment_intercompany</item>
+        <item>@string/pref_cusotmer_segment_marine</item>
+        <item>@string/pref_customer_segment_metal_mining</item>
+        <item>@string/pref_customer_segment_mobile_equipment</item>
+        <item>@string/pref_customer_segment_offshore</item>
+        <item>@string/pref_customer_segment_other</item>
+        <item>@string/pref_customer_segment_pulp_paper_forest</item>
+        <item>@string/pref_customer_segment_testing</item>
+    </string-array>
+</resources>

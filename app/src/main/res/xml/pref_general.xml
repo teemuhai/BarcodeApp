@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListPreference
+        android:defaultValue="@string/pref_business_area_after_sales"
+        android:entries="@array/pref_business_area_options"
+        android:entryValues="@array/pref_business_area_values"
+        android:key="@string/pref_business_area_key"
+        android:title="@string/business_area_label" />
+
+    <ListPreference
+        android:defaultValue="@string/pref_warehouse_turku"
+        android:entries="@array/pref_warehouse_options"
+        android:entryValues="@array/pref_warehouse_values"
+        android:key="@string/pref_warehouse_key"
+        android:title="@string/warehouse_label" />
+
+    <ListPreference
+        android:defaultValue="@string/pref_cost_center_turku"
+        android:entries="@array/pref_cost_center_options"
+        android:entryValues="@array/pref_cost_center_values"
+        android:key="@string/pref_cost_center_key"
+        android:title="@string/cost_center_label" />
+
+    <ListPreference
+        android:defaultValue="@string/pref_business_type_product_business"
+        android:entries="@array/pref_business_type_options"
+        android:entryValues="@array/pref_business_type_values"
+        android:key="@string/pref_business_type_key"
+        android:title="@string/business_type_label" />
+
+    <ListPreference
+        android:defaultValue="@string/pref_customer_segment_distributors"
+        android:entries="@array/pref_customer_segment_options"
+        android:entryValues="@array/pref_customer_segment_values"
+        android:key="@string/pref_customer_segment_key"
+        android:title="@string/customer_segment_label"/>
+
+
+</PreferenceScreen>

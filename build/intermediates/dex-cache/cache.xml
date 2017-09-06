@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/d5b70f133b8c0decbb33b8fc657f0dfd7b2a050e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20ec4fc58a8edeaabd0b020688f5b81bc40a7600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/131a7a3de8430f81e8f189c78d97874f9b385892/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d1f155e850bc1a8a725ccb043de916a54d2c93b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/ee0ded9052de076666a30d29c7c0ef0df8af5be1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b214128f6c0c1334bd48778383eb65a2563bdedc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/e323be131004a9b34124ac4ef12c88ae8b785aef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b96a308e74ef3ec4d356c850c2416e3ad9dcd3c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_bb063fff80d32505d9a08564e8b25f524b5efdef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/4755da251e2c403698c10f68d05ae77aff246826/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d503ec1fc6b94b5a4d6d3b174b8a094c7ae2e166/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09e95e288468546473134cf38da64eacabfe1f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/a3ee80671b1ddc7f2642db7fc0ab7855e6a628fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edf83f0053948147b99addcaccd66c3850599288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/00b3ff566eb9dc8158ccc6b7196d39dc7d4842eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe85796802908996aedded2b3a45a2ad6db3c612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/217b6ea75d477dd12f2d27cedd204a5d28b2e4dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68f0447342ec6168cc100efc68a85244ac2103e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/d49eb3de85a812451257ec57c0f5a1071c03b81d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c79cd27ef044898ebd795fa033defabe63b82f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/45ea6b8453f2006ac337fdef27737f502c3a9bbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea929321718eb332a78e2721a782a0102b4063a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/6445b4b0d419ade67580bbd9d045725e4ad5305f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea97198c8117254912be8d926bcdf3fb76d4df67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/.android/build-cache/b6eff9c227a312308ff8fe27db2d66fe0cab5969/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74061316d6298c45f1993c810f752fb1318e14e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d58044b403691b4fb13b4695d7d0f90799d60ad8">
+        <dex dex="/Users/teemurytsola/Documents/OrderingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b8c8ffbff85bdc30295684ccba36213e9849af21/classes.dex" />
+    </item>
+
+</items>
