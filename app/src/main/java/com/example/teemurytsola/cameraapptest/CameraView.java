@@ -40,7 +40,7 @@ public class CameraView extends AppCompatActivity implements View.OnClickListene
         super.onCreate(savedInstanceState);
         setContentView(R.layout.view_camera);
 
-        Intent intentThatStartedThisActivity = getIntent();
+        //Intent intentThatStartedThisActivity = getIntent();
 
 
         cameraView = (SurfaceView) findViewById(R.id.surface_view);
@@ -133,5 +133,4 @@ public class CameraView extends AppCompatActivity implements View.OnClickListene
             Toast.makeText(this, "You have to scan a barcode before adding it to the list", Toast.LENGTH_SHORT).show();
         }
     }
-
 }

@@ -10,4 +10,9 @@
         android:orderInCategory="100"
         android:title="@string/settings"
         app:showAsAction="never" />
+    <item
+        android:orderInCategory="100"
+        android:id="@+id/enter_barcode"
+        android:title="@string/enter_barcode"
+        app:showAsAction="never"/>
 </menu>

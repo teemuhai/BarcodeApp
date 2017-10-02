@@ -16,4 +16,14 @@ public class BarcodeItem {
         this.itemCount = 1;
         this.id = counter++;
     }
+
+    public String getBarcode(){
+        return barcode;
+    }
+    public int getId(){
+        return id;
+    }
+    public int getItemCount(){
+        return itemCount;
+    }
 }
