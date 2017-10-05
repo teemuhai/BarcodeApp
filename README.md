@@ -7,7 +7,10 @@ This README would normally document whatever steps are necessary to get your app
 * This applications primary purpose is to make reading barcodes possible with a mobile application and showing data from them.
 * to create orders within the store using a barcode reader to scan the products, list them and send the order.
 
-### Who do I talk to? ###
+### Features used in this application ###
+
+* Swipe to delete
+* SharedPrefences
+* Google Vision API for reading barcodes with camera
 
 * This repository's project is being developed by Teemu Rytsölä.
-* Other community or team contact
