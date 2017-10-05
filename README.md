@@ -14,4 +14,5 @@ This README would normally document whatever steps are necessary to get your app
 * Google Vision API for reading barcodes with camera
 
 * This repository's project is being developed by Teemu Rytsölä.
-Still under development
+
+This project is still under development
